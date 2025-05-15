@@ -2,7 +2,6 @@
 # 🎓 College Helpdesk
 
 [![Status: Active](https://img.shields.io/badge/Status-Active-green.svg)](https://github.com/Asifsh11/College-Helpdesk)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![React](https://img.shields.io/badge/React-17.x-blue.svg)](https://reactjs.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-14.x-green.svg)](https://nodejs.org/)
 
